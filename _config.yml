@@ -84,10 +84,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-collections:
-  audios:
-    output: true
-    active: audios
-    permalink: /audios/:title/
     
