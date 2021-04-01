@@ -283,6 +283,23 @@ footer {
   text-align: center;
 }
 
+      .container {
+       width: 100%;
+       margin: 0 auto;
+      }
+      .main-content {
+       padding: 10px;
+      }
+      .radius {
+       border-radius: 20px;
+      }
+      .desc {
+       margin-top: 50px;
+      }
+      .margin-left {
+       margin-left: 30px;
+      }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
